@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable special-snippets': 'special-snippets:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'special-snippets'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'special-snippets:toggle' }
+      ]
+    ]
+  }
+]

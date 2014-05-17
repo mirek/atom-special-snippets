@@ -1,0 +1,14 @@
+{
+  "name": "special-snippets",
+  "main": "./lib/special-snippets",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationEvents": ["special-snippets:toggle"],
+  "repository": "https://github.com/mirek/atom-special-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.95.0"
+  },
+  "dependencies": {
+  }
+}

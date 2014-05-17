@@ -1,0 +1,44 @@
+
+'.source':
+
+  'cmd to ⌘': prefix: 'cmd', body: '⌘'
+  '⌘ to cmd': prefix: '⌘', body: 'cmd'
+
+  'shift to ⇧': prefix: 'shift', body: '⇧'
+  '⇧ to shift': prefix: '⇧', body: 'shift'
+
+  'caps to ⇪': prefix: 'caps', body: '⇪'
+  '⇪ to caps': prefix: '⇪', body: 'caps'
+
+  'ctrl to ⌃': prefix: 'ctrl', body: '⌃'
+  '⌃ to ctrl': prefix: '⌃', body: 'ctrl'
+
+  'opt to ⌥': prefix: 'opt', body: '⌥'
+  '⌥ to opt': prefix: '⌥', body: 'opt'
+
+  'del to ⌫': prefix: 'del', body: '⌫'
+  '⌫ to del': prefix: '⌫', body: 'del'
+
+  'return to ↩': prefix: 'return', body: '↩'
+  '↩ to return': prefix: '↩', body: 'return'
+
+  'tab to ⇥': prefix: 'tab', body: '⇥'
+  '⇥ to tab': prefix: '⇥', body: 'tab'
+
+  'right to →': prefix: 'right', body: '→'
+  '→ to right': prefix: '→', body: 'right'
+
+  'left to ←': prefix: 'left', body: '←'
+  '← to left': prefix: '←', body: 'left'
+
+  'up to ↑': prefix: 'up', body: '↑'
+  '↑ to up': prefix: '↑', body: 'up'
+
+  'down to ↓': prefix: 'down', body: '↓'
+  '↓ to down': prefix: '↓', body: 'down'
+
+  'eject to ⏏': prefix: 'eject', body: '⏏'
+  '⏏ to eject': prefix: '⏏', body: 'eject'
+
+  'esc to ⎋': prefix: 'esc', body: '⎋'
+  '⎋ to esc': prefix: '⎋', body: 'esc'
