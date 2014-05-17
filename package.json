@@ -2,7 +2,7 @@
   "name": "special-snippets",
   "main": "./lib/special-snippets",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Special characters cmd-⌘, shift-⇧, opt-⌥, del-⌫, esc-⎋, etc.",
   "activationEvents": [
     "special-snippets:toggle"
   ],
